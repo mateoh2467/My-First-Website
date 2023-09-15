@@ -1,3 +1,7 @@
 .biol {
     text-indent: 50px;
 }
+.bio-heading {
+    display:flex;
+    justify-content: center;
+}
