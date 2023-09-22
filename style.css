@@ -5,3 +5,6 @@
     display:flex;
     justify-content: center;
 }
+.piano {
+    width: 500px
+}
