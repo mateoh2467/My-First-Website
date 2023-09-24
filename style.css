@@ -1,10 +1,233 @@
-.biol {
-    text-indent: 50px;
-}
-.bio-heading {
-    display:flex;
+.main-header {
+    display: flex;
     justify-content: center;
 }
-.piano {
-    width: 500px
+.text {
+    font-size: 18px;
+}
+.links {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5px;
+    margin-left: 35px;
+}
+.home-link {
+    font-size: 17px;
+    width: 50px;
+    border-radius: 250px;
+    background-color: rgba(243, 202, 255, 0.885);
+    padding:5px;
+    color:black;
+    display: flex;
+    justify-content: center;
+}
+.bio-link {
+    font-size: 17px;
+    width: 80px;
+    border-radius: 250px;
+    background-color: rgba(243, 202, 255, 0.885);
+    padding:5px;
+    color:black;
+    display: flex;
+    justify-content: center;
+}
+.hobbies-link {
+    font-size: 17px;
+    width: 65px;
+    border-radius: 250px;
+    background-color: rgba(243, 202, 255, 0.885);
+    padding:5px;
+    color:black;
+    display: flex;
+    justify-content: center;
+}
+.portfolio-link {
+    font-size: 17px;
+    width: 70px;
+    border-radius: 250px;
+    background-color: rgba(243, 202, 255, 0.885);
+    padding: 5px;
+    text-align: center;
+}
+.hobby-line {
+    color: black;
+}
+.home-body {
+    background: #b7b1d2ae;
+}
+.homepage-links {
+    display: flex;
+    justify-content: space-around;
+    margin-left: -5px;
+}
+.home-text {
+    display: flex;
+    justify-content: space-around;
+}
+.your-lie-in-april-pic {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 500px;
+    width: 500px;
+}
+.bio-heading {
+    text-align: center;
+    background-color: aquamarine;
+    border-radius: 2500px;
+    width: 175px;
+    display:flex;
+    justify-content: center;
+    font-family:'Trebuchet MS';
+    margin-left: 680px;
+}
+.biol {
+    display:flex;
+    justify-content: center;
+    font-size: 18px;
+}
+.bio-pics
+{
+margin: 10px;
+display: flex;
+justify-content: space-around;
+}
+.colombian-flag {
+    width: 300px;
+}
+.chess{
+    width: 300px
+}
+.bowling
+{
+    width: 300px
+}
+.chess-text
+{
+    display: flex;
+    justify-content: space-around; 
+}
+.bio-body {
+    background-color: #1ec7b0; 
+}
+.hobbies-body {
+    background-color:blanchedalmond
+}
+.hobbies-title {
+    display: flex;
+    justify-content: center;
+}
+.hobbies-heading {
+    text-align: center;
+    font-family:'Trebuchet MS';
+    background-color: rgba(216, 122, 7, 0.229);
+    border-radius: 2500px;
+    width: 175px; 
+    display: flex;
+    justify-content: center;
+    margin-left: 15px;
+}
+.piano-and-tv-heading {
+    display: flex;
+    justify-content: space-around;
+}
+.hobby-pics{
+    display: flex;
+justify-content: flex-start;
+}
+.bill-evans-pic {
+    width: 400px;
+    margin-left: 130px;
+}
+.piano-text-one {
+    margin-right: 150px;
+}
+.piano-text-two {
+    margin-left: 40px;
+    margin-right: 115px;
+}
+.row-one-words {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: -20px;
+}
+.row-two-words {
+    display:flex;
+    justify-content: space-evenly;
+}
+.tv-text-two {
+    margin-right: 30px;
+}
+.tv-text-three {
+    margin-left: 850px;
+    margin-top: 0px;
+}
+.levi-pic {
+    width: 280px;
+    margin-left: 480px;
+}
+.hobbies-pics-text-row-one {
+    display:flex;
+    justify-content:space-around;
+    margin-top: -12px;
+}
+.piano-pic-text {
+    margin-right: 160px;
+}
+.hobbies-row-two-headings {
+display: flex;
+justify-content: space-around;
+}
+.guitar-text-one {
+    margin-right: 150px;
+}
+.guitar-text-two {
+    margin-left: 0px;
+    margin-right: 135px;
+}
+.chess-text-two {
+    margin-right: 30px;
+}
+.second-section-hobbies-row-three {
+    display: flex;
+    justify-content: space-around;
+}
+.guitar-text-three {
+    margin-top: -3px;
+    margin-left: -50px;
+}
+.chess-text-three {
+    margin-left: 0px;
+    margin-top: -3px;
+}
+.hobby-pics-row-two {
+display: flex;
+justify-content: space-around;
+}
+.guitar-pic {
+    width: 300px
+}
+.chess-pic {
+    width: 500px;
+    margin-right: -80px;
+}
+.guitar-pic-text {
+    margin-right: -300px;
+}
+.chess-pic-text-hobbies {
+    width: 280px;
+    margin-left: 480px;
+    margin-right: -100px;
+}
+.portfolio-body {
+    background: rgba(255, 167, 126, 0.452);
+}
+.portfolio-heading {
+    text-align: center;
+    font-family:'Trebuchet MS';
+    background-color: #F5C7B8FF;
+    border-radius: 2500px;
+    width: 175px; 
+    display: flex;
+    justify-content: center;
+    margin-left: 685px;
 }
