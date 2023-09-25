@@ -231,3 +231,13 @@ justify-content: space-around;
     justify-content: center;
     margin-left: 685px;
 }
+.nyssma-pic {
+    width: 500px;
+}
+.NYSSMA {
+    display: flex;
+    margin-left: 5px;
+}
+.nyssma-text {
+    margin-left: 5px;
+}
