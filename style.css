@@ -240,4 +240,34 @@ justify-content: space-around;
 }
 .nyssma-text {
     margin-left: 5px;
+    display: flex;
+    justify-content: center;
+}
+.chess-game {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 10px;
+    margin-top: -400px;
+}
+.chess-game-pic {
+    width: 500px;
+}
+.chess-game-text {
+    display: flex; 
+    justify-content: center;
+    margin-right: 10px;
+}
+.guitar-concert {
+    display: flex;
+    justify-content: flex-start;
+}
+.guitar-concert-pic {
+    width: 250px;
+    margin-top: -100px;
+    margin-left: 100px;
+}
+.guitar-concert-text {
+    display: flex;
+    justify-content: center;
+    margin-left: 10px;
 }
